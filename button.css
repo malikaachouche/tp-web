@@ -1,0 +1,48 @@
+
+.button {
+	display: flex;
+	background-color: #ec7316; /* Green */
+	border: none;
+	color: white;
+	padding: 5px 25px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 0px 2px;
+	transition-duration: 0.4s;
+	cursor: pointer;
+}
+
+.button1 {
+	background-color: #ef6e32; 
+	color: rgb(255, 255, 255); 
+	border: 2px solid black;
+}
+
+.button1:hover {
+	background-color: #ffffff;
+	
+	color: rgb(0, 0, 0);
+}
+
+
+.btn {
+	display: flex;
+	float: left;
+	margin-left: 100px;
+	padding: 5px 5px;
+	text-align: center;
+	color: #000000;
+	text-decoration: none;
+	background-color:transparent;
+	
+}
+
+.btnMenu {
+	margin-left: 40px;
+}
+.btn:hover {
+background-color: #aea3a3;
+	color: white;
+}
